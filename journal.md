@@ -6,7 +6,7 @@ Created On: "24/8/2025"
 ---
 
 day 24/8/25
-time speant yet-1 hr
+time speant yet-4 hr
 tasks done
 created a basic sketch , plan 
 spent the whole time for rerserch apperantly xaio rp2040 can t support 16 keys 2 encoders and neopixels simultandeo.usly but toggle can do it so thats a good we can add a key to togle between the encoders and encoders so the function either of them will work this is sth new i learnt
@@ -23,7 +23,14 @@ csant add 2 rotatory encr der found a toggle switxh compromise that disables las
  change is needed i wanted to try 10 expander but now keypad will ho to io/ expander and the matrix will go to keypad and the encvoders neopixels to the xaio
  <img width="1917" height="823" alt="image" src="https://github.com/user-attachments/assets/fdf4a242-8614-4f60-9edc-b2b67986cbab" />
 
- 
+schematic-<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/d9678008-461c-443b-a61e-6cd267a68770" />
+
+
+ pcb-<img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/14e8f26a-434e-477d-a499-5a467fa26b5e" />
+
+
+had to create custom io expander fotprint<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/18ea5709-9131-4f2a-ab98-6f7a3c321049" />
+
 
 
 
