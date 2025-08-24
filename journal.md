@@ -21,6 +21,8 @@ compeleted the matrix both rows and columns-<img width="1214" height="602" alt="
 
 csant add 2 rotatory encr der found a toggle switxh compromise that disables lasrt 2 switches to nabke adding 2 encoders
  change is needed i wanted to try 10 expander but now keypad will ho to io/ expander and the matrix will go to keypad and the encvoders neopixels to the xaio
+ <img width="1917" height="823" alt="image" src="https://github.com/user-attachments/assets/fdf4a242-8614-4f60-9edc-b2b67986cbab" />
+
  
 
 
