@@ -23,6 +23,9 @@ csant add 2 rotatory encr der found a toggle switxh compromise that disables las
  change is needed i wanted to try 10 expander but now keypad will ho to io/ expander and the matrix will go to keypad and the encvoders neopixels to the xaio
  <img width="1917" height="823" alt="image" src="https://github.com/user-attachments/assets/fdf4a242-8614-4f60-9edc-b2b67986cbab" />
 
+
+
+day 2 time spent 4 hrsbinded the right 3d models the routhing is complwrte moved sdjusted everything as needed
 schematic-<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/d9678008-461c-443b-a61e-6cd267a68770" />
 
 
@@ -30,6 +33,12 @@ schematic-<img width="1919" height="884" alt="image" src="https://github.com/use
 
 
 had to create custom io expander fotprint<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/18ea5709-9131-4f2a-ab98-6f7a3c321049" />
+
+<img width="1888" height="870" alt="image" src="https://github.com/user-attachments/assets/d1225b21-bfee-4a72-a3e3-a4f25d6e651f" />
+
+readjustment
+<img width="1917" height="829" alt="image" src="https://github.com/user-attachments/assets/ccf1be9c-fe38-4291-ab7b-2801ab4ba7c9" />
+
 
 
 
