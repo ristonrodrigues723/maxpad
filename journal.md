@@ -1,7 +1,7 @@
 ---
-Title: "Your PCB Project Name"
-Author: "Your name (name or slack username)"
-Description: "Describe your PCB project in a short sentence!"
+Title: "Maxpad"
+Author: Maximus"
+Description: "16 key 2 rotatory encoder base macropad"
 Created On: "24/8/2025"
 ---
 
@@ -28,16 +28,23 @@ csant add 2 rotatory encr der found a toggle switxh compromise that disables las
 day 2 time spent 4 hrsbinded the right 3d models the routhing is complwrte moved sdjusted everything as needed
 schematic-<img width="1919" height="884" alt="image" src="https://github.com/user-attachments/assets/d9678008-461c-443b-a61e-6cd267a68770" />
 
-
+day 25/8/25
+time speant-4 hr
+tasks done
+adjusted the complwetee cmponents until i got the right thing 9 ad in mind and e routing couls be done easliy without messing up things
  pcb-<img width="1919" height="814" alt="image" src="https://github.com/user-attachments/assets/14e8f26a-434e-477d-a499-5a467fa26b5e" />
 
-
-had to create custom io expander fotprint<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/18ea5709-9131-4f2a-ab98-6f7a3c321049" />
+<img width="1919" height="851" alt="image" src="https://github.com/user-attachments/assets/18ea5709-9131-4f2a-ab98-6f7a3c321049" />
+the io exoander needed a custom footprint so did thatmade necesary adjutments as needed still chnges needed
 
 <img width="1888" height="870" alt="image" src="https://github.com/user-attachments/assets/d1225b21-bfee-4a72-a3e3-a4f25d6e651f" />
+the routing ias a pain i had to reroute readjust the nets continuously , autorouter kept failing
+had to change the footprits for keys as there is problem with the skmini footprint i had to manually adjust change them there are al lot of drc error s in it
+the keys footprint were a mess too some manual editing in that too
 
-readjustment
+
 <img width="1917" height="829" alt="image" src="https://github.com/user-attachments/assets/ccf1be9c-fe38-4291-ab7b-2801ab4ba7c9" />
+addedal right 3d models so we adhould be good to go
 
 
 
