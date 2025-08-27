@@ -46,7 +46,26 @@ the keys footprint were a mess too some manual editing in that too
 <img width="1917" height="829" alt="image" src="https://github.com/user-attachments/assets/ccf1be9c-fe38-4291-ab7b-2801ab4ba7c9" />
 addedal right 3d models so we adhould be good to go
 
+day 3 27/8/25
+time spent 2 hr
+tasks done -designing of the xcase 
 
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/99f6076b-50f9-4fa7-86f9-2d68f077e3aa" />
+dd sketch based on pcb derivation
+
+2
+<img width="1914" height="895" alt="image" src="https://github.com/user-attachments/assets/a936ab87-2f73-4860-8d26-6a046e8ebf94" />
+3
+<img width="1919" height="969" alt="image" src="https://github.com/user-attachments/assets/d7b9cb72-b159-4601-9909-57b251f7874c" />
+4
+<img width="1919" height="885" alt="image" src="https://github.com/user-attachments/assets/9d06480d-efc7-4461-a61b-6911a0f2d8ca" />
+added the sketch 1,2 with extrudes for sides and proper slots for the lights to shgine
+
+5
+<img width="1918" height="897" alt="image" src="https://github.com/user-attachments/assets/d5ed3d4b-0029-4e30-8194-117667ba821d" />
+added top case part
+6
+<img width="1919" height="967" alt="image" src="https://github.com/user-attachments/assets/3d2f7540-b615-4337-926f-988db0ff4ccc" /> finished basic case without muchg isues
 
 
 
